@@ -1,0 +1,884 @@
+Principal referral and womens and children's hospitals,Resuscitation,NSW,less_4hr_all,38.7022
+Principal referral and womens and children's hospitals,Emergency,NSW,less_4hr_all,31.6962
+Principal referral and womens and children's hospitals,Urgent,NSW,less_4hr_all,38.0071
+Principal referral and womens and children's hospitals,Semi-urgent,NSW,less_4hr_all,59.0877
+Principal referral and womens and children's hospitals,Non-urgent,NSW,less_4hr_all,76.947
+Public acute group A hospitals,Resuscitation,NSW,less_4hr_all,35.0613
+Public acute group A hospitals,Emergency,NSW,less_4hr_all,38.6798
+Public acute group A hospitals,Urgent,NSW,less_4hr_all,40.9414
+Public acute group A hospitals,Semi-urgent,NSW,less_4hr_all,60.7058
+Public acute group A hospitals,Non-urgent,NSW,less_4hr_all,79.0429
+Public acute group B hospitals,Resuscitation,NSW,less_4hr_all,33.2006
+Public acute group B hospitals,Emergency,NSW,less_4hr_all,42.8972
+Public acute group B hospitals,Urgent,NSW,less_4hr_all,50.6326
+Public acute group B hospitals,Semi-urgent,NSW,less_4hr_all,70.998
+Public acute group B hospitals,Non-urgent,NSW,less_4hr_all,86.0538
+Public acute group C hospitals,Resuscitation,NSW,less_4hr_all,51.7268
+Public acute group C hospitals,Emergency,NSW,less_4hr_all,54.1286
+Public acute group C hospitals,Urgent,NSW,less_4hr_all,68.5955
+Public acute group C hospitals,Semi-urgent,NSW,less_4hr_all,86.2001
+Public acute group C hospitals,Non-urgent,NSW,less_4hr_all,94.2921
+All hospitals,Resuscitation,NSW,less_4hr_all,38.0284
+All hospitals,Emergency,NSW,less_4hr_all,39.044
+All hospitals,Urgent,NSW,less_4hr_all,45.8374
+All hospitals,Semi-urgent,NSW,less_4hr_all,68.457
+All hospitals,Non-urgent,NSW,less_4hr_all,86.5137
+Principal referral and womens and children's hospitals,Resuscitation,VIC,less_4hr_all,51.87
+Principal referral and womens and children's hospitals,Emergency,VIC,less_4hr_all,43.0909
+Principal referral and womens and children's hospitals,Urgent,VIC,less_4hr_all,51.0148
+Principal referral and womens and children's hospitals,Semi-urgent,VIC,less_4hr_all,66.0536
+Principal referral and womens and children's hospitals,Non-urgent,VIC,less_4hr_all,83.4272
+Public acute group A hospitals,Resuscitation,VIC,less_4hr_all,36.939
+Public acute group A hospitals,Emergency,VIC,less_4hr_all,38.5989
+Public acute group A hospitals,Urgent,VIC,less_4hr_all,40.5127
+Public acute group A hospitals,Semi-urgent,VIC,less_4hr_all,58.3095
+Public acute group A hospitals,Non-urgent,VIC,less_4hr_all,79.8386
+Public acute group B hospitals,Resuscitation,VIC,less_4hr_all,33.4576
+Public acute group B hospitals,Emergency,VIC,less_4hr_all,42.3438
+Public acute group B hospitals,Urgent,VIC,less_4hr_all,46.1096
+Public acute group B hospitals,Semi-urgent,VIC,less_4hr_all,65.5024
+Public acute group B hospitals,Non-urgent,VIC,less_4hr_all,85.9632
+Public acute group C hospitals,Resuscitation,VIC,less_4hr_all,39.2308
+Public acute group C hospitals,Emergency,VIC,less_4hr_all,46.4699
+Public acute group C hospitals,Urgent,VIC,less_4hr_all,55.388
+Public acute group C hospitals,Semi-urgent,VIC,less_4hr_all,78.113
+Public acute group C hospitals,Non-urgent,VIC,less_4hr_all,90.7311
+All hospitals,Resuscitation,VIC,less_4hr_all,43.3164
+All hospitals,Emergency,VIC,less_4hr_all,41.5571
+All hospitals,Urgent,VIC,less_4hr_all,45.7074
+All hospitals,Semi-urgent,VIC,less_4hr_all,63.6017
+All hospitals,Non-urgent,VIC,less_4hr_all,82.4741
+Principal referral and womens and children's hospitals,Resuscitation,Qld,less_4hr_all,48.9376
+Principal referral and womens and children's hospitals,Emergency,Qld,less_4hr_all,39.792
+Principal referral and womens and children's hospitals,Urgent,Qld,less_4hr_all,43.2364
+Principal referral and womens and children's hospitals,Semi-urgent,Qld,less_4hr_all,62.136
+Principal referral and womens and children's hospitals,Non-urgent,Qld,less_4hr_all,77.1492
+Public acute group A hospitals,Resuscitation,Qld,less_4hr_all,32.9159
+Public acute group A hospitals,Emergency,Qld,less_4hr_all,37.6945
+Public acute group A hospitals,Urgent,Qld,less_4hr_all,41.545
+Public acute group A hospitals,Semi-urgent,Qld,less_4hr_all,61.8712
+Public acute group A hospitals,Non-urgent,Qld,less_4hr_all,80.0711
+Public acute group B hospitals,Resuscitation,Qld,less_4hr_all,35.4034
+Public acute group B hospitals,Emergency,Qld,less_4hr_all,48.4532
+Public acute group B hospitals,Urgent,Qld,less_4hr_all,50.3958
+Public acute group B hospitals,Semi-urgent,Qld,less_4hr_all,74.0797
+Public acute group B hospitals,Non-urgent,Qld,less_4hr_all,90.3775
+All hospitals,Resuscitation,Qld,less_4hr_all,41.5043
+All hospitals,Emergency,Qld,less_4hr_all,40.2459
+All hospitals,Urgent,Qld,less_4hr_all,43.7884
+All hospitals,Semi-urgent,Qld,less_4hr_all,64.5381
+All hospitals,Non-urgent,Qld,less_4hr_all,80.8796
+Principal referral and womens and children's hospitals,Resuscitation,WA,less_4hr_all,47.6265
+Principal referral and womens and children's hospitals,Emergency,WA,less_4hr_all,42.8175
+Principal referral and womens and children's hospitals,Urgent,WA,less_4hr_all,38.5094
+Principal referral and womens and children's hospitals,Semi-urgent,WA,less_4hr_all,56.5063
+Principal referral and womens and children's hospitals,Non-urgent,WA,less_4hr_all,68.6466
+Public acute group A hospitals,Resuscitation,WA,less_4hr_all,34.9566
+Public acute group A hospitals,Emergency,WA,less_4hr_all,38.0473
+Public acute group A hospitals,Urgent,WA,less_4hr_all,37.4902
+Public acute group A hospitals,Semi-urgent,WA,less_4hr_all,56.4859
+Public acute group A hospitals,Non-urgent,WA,less_4hr_all,74.001
+Public acute group B hospitals,Resuscitation,WA,less_4hr_all,34.8018
+Public acute group B hospitals,Emergency,WA,less_4hr_all,47.2571
+Public acute group B hospitals,Urgent,WA,less_4hr_all,51.6444
+Public acute group B hospitals,Semi-urgent,WA,less_4hr_all,72.4002
+Public acute group B hospitals,Non-urgent,WA,less_4hr_all,84.1125
+Public acute group C hospitals,Resuscitation,WA,less_4hr_all,31.211
+Public acute group C hospitals,Emergency,WA,less_4hr_all,47.6318
+Public acute group C hospitals,Urgent,WA,less_4hr_all,63.4767
+Public acute group C hospitals,Semi-urgent,WA,less_4hr_all,84.727
+Public acute group C hospitals,Non-urgent,WA,less_4hr_all,92.8066
+All hospitals,Resuscitation,WA,less_4hr_all,41.5627
+All hospitals,Emergency,WA,less_4hr_all,42.4623
+All hospitals,Urgent,WA,less_4hr_all,43.4901
+All hospitals,Semi-urgent,WA,less_4hr_all,65.999
+All hospitals,Non-urgent,WA,less_4hr_all,84.3845
+Principal referral and womens and children's hospitals,Resuscitation,SA,less_4hr_all,42.9355
+Principal referral and womens and children's hospitals,Emergency,SA,less_4hr_all,35.2992
+Principal referral and womens and children's hospitals,Urgent,SA,less_4hr_all,37.3247
+Principal referral and womens and children's hospitals,Semi-urgent,SA,less_4hr_all,57.1505
+Principal referral and womens and children's hospitals,Non-urgent,SA,less_4hr_all,72.491
+Public acute group A hospitals,Resuscitation,SA,less_4hr_all,40.1977
+Public acute group A hospitals,Emergency,SA,less_4hr_all,35.7892
+Public acute group A hospitals,Urgent,SA,less_4hr_all,29.2076
+Public acute group A hospitals,Semi-urgent,SA,less_4hr_all,46.2287
+Public acute group A hospitals,Non-urgent,SA,less_4hr_all,71.2096
+Public acute group B hospitals,Resuscitation,SA,less_4hr_all,40.6654
+Public acute group B hospitals,Emergency,SA,less_4hr_all,42.6378
+Public acute group B hospitals,Urgent,SA,less_4hr_all,44.9295
+Public acute group B hospitals,Semi-urgent,SA,less_4hr_all,66.4138
+Public acute group B hospitals,Non-urgent,SA,less_4hr_all,85.5061
+Public acute group C hospitals,Resuscitation,SA,less_4hr_all,46.5211
+Public acute group C hospitals,Emergency,SA,less_4hr_all,53.3929
+Public acute group C hospitals,Urgent,SA,less_4hr_all,57.4994
+Public acute group C hospitals,Semi-urgent,SA,less_4hr_all,76.4826
+Public acute group C hospitals,Non-urgent,SA,less_4hr_all,89.9912
+All hospitals,Resuscitation,SA,less_4hr_all,42.3002
+All hospitals,Emergency,SA,less_4hr_all,39.1624
+All hospitals,Urgent,SA,less_4hr_all,40.5008
+All hospitals,Semi-urgent,SA,less_4hr_all,61.5713
+All hospitals,Non-urgent,SA,less_4hr_all,80.0006
+Principal referral and womens and children's hospitals,Resuscitation,Tas,less_4hr_all,48.3025
+Principal referral and womens and children's hospitals,Emergency,Tas,less_4hr_all,39.3806
+Principal referral and womens and children's hospitals,Urgent,Tas,less_4hr_all,37.0795
+Principal referral and womens and children's hospitals,Semi-urgent,Tas,less_4hr_all,50.2741
+Principal referral and womens and children's hospitals,Non-urgent,Tas,less_4hr_all,68.0804
+Public acute group A hospitals,Resuscitation,Tas,less_4hr_all,41.9805
+Public acute group A hospitals,Emergency,Tas,less_4hr_all,30.3776
+Public acute group A hospitals,Urgent,Tas,less_4hr_all,34.6678
+Public acute group A hospitals,Semi-urgent,Tas,less_4hr_all,58.7102
+Public acute group A hospitals,Non-urgent,Tas,less_4hr_all,79.3478
+Public acute group B hospitals,Resuscitation,Tas,less_4hr_all,45.4545
+Public acute group B hospitals,Emergency,Tas,less_4hr_all,46.0582
+Public acute group B hospitals,Urgent,Tas,less_4hr_all,61.3242
+Public acute group B hospitals,Semi-urgent,Tas,less_4hr_all,81.7596
+Public acute group B hospitals,Non-urgent,Tas,less_4hr_all,92.1307
+All hospitals,Resuscitation,Tas,less_4hr_all,45
+All hospitals,Emergency,Tas,less_4hr_all,35.9855
+All hospitals,Urgent,Tas,less_4hr_all,39.2354
+All hospitals,Semi-urgent,Tas,less_4hr_all,61.6556
+All hospitals,Non-urgent,Tas,less_4hr_all,76.0923
+Principal referral and womens and children's hospitals,Resuscitation,ACT,less_4hr_all,51.4286
+Principal referral and womens and children's hospitals,Emergency,ACT,less_4hr_all,54.0433
+Principal referral and womens and children's hospitals,Urgent,ACT,less_4hr_all,54.3323
+Principal referral and womens and children's hospitals,Semi-urgent,ACT,less_4hr_all,67.9879
+Principal referral and womens and children's hospitals,Non-urgent,ACT,less_4hr_all,83.0899
+Public acute group A hospitals,Resuscitation,ACT,less_4hr_all,41.5254
+Public acute group A hospitals,Emergency,ACT,less_4hr_all,59.4496
+Public acute group A hospitals,Urgent,ACT,less_4hr_all,52.2769
+Public acute group A hospitals,Semi-urgent,ACT,less_4hr_all,67.6134
+Public acute group A hospitals,Non-urgent,ACT,less_4hr_all,84.65
+All hospitals,Resuscitation,ACT,less_4hr_all,49.1835
+All hospitals,Emergency,ACT,less_4hr_all,55.6922
+All hospitals,Urgent,ACT,less_4hr_all,53.5419
+All hospitals,Semi-urgent,ACT,less_4hr_all,67.8342
+All hospitals,Non-urgent,ACT,less_4hr_all,83.7247
+Principal referral and womens and children's hospitals,Resuscitation,NT,less_4hr_all,36.978
+Principal referral and womens and children's hospitals,Emergency,NT,less_4hr_all,30.2963
+Principal referral and womens and children's hospitals,Urgent,NT,less_4hr_all,31.6472
+Principal referral and womens and children's hospitals,Semi-urgent,NT,less_4hr_all,45.8908
+Principal referral and womens and children's hospitals,Non-urgent,NT,less_4hr_all,62.6122
+Public acute group A hospitals,Resuscitation,NT,less_4hr_all,56.4885
+Public acute group A hospitals,Emergency,NT,less_4hr_all,50.5222
+Public acute group A hospitals,Urgent,NT,less_4hr_all,54.9127
+Public acute group A hospitals,Semi-urgent,NT,less_4hr_all,70.5849
+Public acute group A hospitals,Non-urgent,NT,less_4hr_all,78.9559
+Public acute group C hospitals,Resuscitation,NT,less_4hr_all,35.9375
+Public acute group C hospitals,Emergency,NT,less_4hr_all,47.3409
+Public acute group C hospitals,Urgent,NT,less_4hr_all,52.1294
+Public acute group C hospitals,Semi-urgent,NT,less_4hr_all,68.8711
+Public acute group C hospitals,Non-urgent,NT,less_4hr_all,85.9137
+All hospitals,Resuscitation,NT,less_4hr_all,39.3785
+All hospitals,Emergency,NT,less_4hr_all,40.3197
+All hospitals,Urgent,NT,less_4hr_all,44.906
+All hospitals,Semi-urgent,NT,less_4hr_all,61.6941
+All hospitals,Non-urgent,NT,less_4hr_all,79.0035
+Principal referral and womens and children's hospitals,Resuscitation,NSW,less_4hr_admitted,38.4639
+Principal referral and womens and children's hospitals,Emergency,NSW,less_4hr_admitted,23.548
+Principal referral and womens and children's hospitals,Urgent,NSW,less_4hr_admitted,20.5093
+Principal referral and womens and children's hospitals,Semi-urgent,NSW,less_4hr_admitted,24.4962
+Principal referral and womens and children's hospitals,Non-urgent,NSW,less_4hr_admitted,43.5364
+Public acute group A hospitals,Resuscitation,NSW,less_4hr_admitted,32.3777
+Public acute group A hospitals,Emergency,NSW,less_4hr_admitted,26.7786
+Public acute group A hospitals,Urgent,NSW,less_4hr_admitted,20.1873
+Public acute group A hospitals,Semi-urgent,NSW,less_4hr_admitted,24.9046
+Public acute group A hospitals,Non-urgent,NSW,less_4hr_admitted,43.2067
+Public acute group B hospitals,Resuscitation,NSW,less_4hr_admitted,22.9533
+Public acute group B hospitals,Emergency,NSW,less_4hr_admitted,25.2313
+Public acute group B hospitals,Urgent,NSW,less_4hr_admitted,22.8676
+Public acute group B hospitals,Semi-urgent,NSW,less_4hr_admitted,27.7578
+Public acute group B hospitals,Non-urgent,NSW,less_4hr_admitted,60.2754
+Public acute group C hospitals,Resuscitation,NSW,less_4hr_admitted,23.1884
+Public acute group C hospitals,Emergency,NSW,less_4hr_admitted,26.6735
+Public acute group C hospitals,Urgent,NSW,less_4hr_admitted,31.1293
+Public acute group C hospitals,Semi-urgent,NSW,less_4hr_admitted,37.3491
+Public acute group C hospitals,Non-urgent,NSW,less_4hr_admitted,48.1786
+All hospitals,Resuscitation,NSW,less_4hr_admitted,34.9805
+All hospitals,Emergency,NSW,less_4hr_admitted,25.5013
+All hospitals,Urgent,NSW,less_4hr_admitted,21.7256
+All hospitals,Semi-urgent,NSW,less_4hr_admitted,26.8622
+All hospitals,Non-urgent,NSW,less_4hr_admitted,48.8886
+Principal referral and womens and children's hospitals,Resuscitation,VIC,less_4hr_admitted,53.8899
+Principal referral and womens and children's hospitals,Emergency,VIC,less_4hr_admitted,39.6632
+Principal referral and womens and children's hospitals,Urgent,VIC,less_4hr_admitted,42.7678
+Principal referral and womens and children's hospitals,Semi-urgent,VIC,less_4hr_admitted,48.5517
+Principal referral and womens and children's hospitals,Non-urgent,VIC,less_4hr_admitted,70.1097
+Public acute group A hospitals,Resuscitation,VIC,less_4hr_admitted,38.685
+Public acute group A hospitals,Emergency,VIC,less_4hr_admitted,32.1568
+Public acute group A hospitals,Urgent,VIC,less_4hr_admitted,26.5365
+Public acute group A hospitals,Semi-urgent,VIC,less_4hr_admitted,31.0118
+Public acute group A hospitals,Non-urgent,VIC,less_4hr_admitted,43.7629
+Public acute group B hospitals,Resuscitation,VIC,less_4hr_admitted,30.0477
+Public acute group B hospitals,Emergency,VIC,less_4hr_admitted,38.0986
+Public acute group B hospitals,Urgent,VIC,less_4hr_admitted,37.0817
+Public acute group B hospitals,Semi-urgent,VIC,less_4hr_admitted,48.1639
+Public acute group B hospitals,Non-urgent,VIC,less_4hr_admitted,51.6981
+Public acute group C hospitals,Resuscitation,VIC,less_4hr_admitted,39.7436
+Public acute group C hospitals,Emergency,VIC,less_4hr_admitted,38.6633
+Public acute group C hospitals,Urgent,VIC,less_4hr_admitted,36.1951
+Public acute group C hospitals,Semi-urgent,VIC,less_4hr_admitted,45.4198
+Public acute group C hospitals,Non-urgent,VIC,less_4hr_admitted,70.2586
+All hospitals,Resuscitation,VIC,less_4hr_admitted,45.7726
+All hospitals,Emergency,VIC,less_4hr_admitted,36.5455
+All hospitals,Urgent,VIC,less_4hr_admitted,34.7418
+All hospitals,Semi-urgent,VIC,less_4hr_admitted,41.1646
+All hospitals,Non-urgent,VIC,less_4hr_admitted,58.7513
+Principal referral and womens and children's hospitals,Resuscitation,Qld,less_4hr_admitted,50.9034
+Principal referral and womens and children's hospitals,Emergency,Qld,less_4hr_admitted,32.3256
+Principal referral and womens and children's hospitals,Urgent,Qld,less_4hr_admitted,27.8401
+Principal referral and womens and children's hospitals,Semi-urgent,Qld,less_4hr_admitted,31.025
+Principal referral and womens and children's hospitals,Non-urgent,Qld,less_4hr_admitted,49.4373
+Public acute group A hospitals,Resuscitation,Qld,less_4hr_admitted,30.376
+Public acute group A hospitals,Emergency,Qld,less_4hr_admitted,30.9776
+Public acute group A hospitals,Urgent,Qld,less_4hr_admitted,28.5193
+Public acute group A hospitals,Semi-urgent,Qld,less_4hr_admitted,30.8292
+Public acute group A hospitals,Non-urgent,Qld,less_4hr_admitted,44.4617
+Public acute group B hospitals,Resuscitation,Qld,less_4hr_admitted,29.4412
+Public acute group B hospitals,Emergency,Qld,less_4hr_admitted,41.8783
+Public acute group B hospitals,Urgent,Qld,less_4hr_admitted,35.2766
+Public acute group B hospitals,Semi-urgent,Qld,less_4hr_admitted,39.5628
+Public acute group B hospitals,Non-urgent,Qld,less_4hr_admitted,48.3871
+All hospitals,Resuscitation,Qld,less_4hr_admitted,41.6783
+All hospitals,Emergency,Qld,less_4hr_admitted,33.0949
+All hospitals,Urgent,Qld,less_4hr_admitted,29.3634
+All hospitals,Semi-urgent,Qld,less_4hr_admitted,32.1313
+All hospitals,Non-urgent,Qld,less_4hr_admitted,47.8421
+Principal referral and womens and children's hospitals,Resuscitation,WA,less_4hr_admitted,48.0692
+Principal referral and womens and children's hospitals,Emergency,WA,less_4hr_admitted,33.4629
+Principal referral and womens and children's hospitals,Urgent,WA,less_4hr_admitted,18.8496
+Principal referral and womens and children's hospitals,Semi-urgent,WA,less_4hr_admitted,19.7381
+Principal referral and womens and children's hospitals,Non-urgent,WA,less_4hr_admitted,24.0157
+Public acute group A hospitals,Resuscitation,WA,less_4hr_admitted,29.0719
+Public acute group A hospitals,Emergency,WA,less_4hr_admitted,21.7147
+Public acute group A hospitals,Urgent,WA,less_4hr_admitted,9.7506
+Public acute group A hospitals,Semi-urgent,WA,less_4hr_admitted,10.1965
+Public acute group A hospitals,Non-urgent,WA,less_4hr_admitted,17.7019
+Public acute group B hospitals,Resuscitation,WA,less_4hr_admitted,32.1856
+Public acute group B hospitals,Emergency,WA,less_4hr_admitted,34.3835
+Public acute group B hospitals,Urgent,WA,less_4hr_admitted,23.7751
+Public acute group B hospitals,Semi-urgent,WA,less_4hr_admitted,26.0313
+Public acute group B hospitals,Non-urgent,WA,less_4hr_admitted,42.1941
+Public acute group C hospitals,Resuscitation,WA,less_4hr_admitted,27.8431
+Public acute group C hospitals,Emergency,WA,less_4hr_admitted,27.4623
+Public acute group C hospitals,Urgent,WA,less_4hr_admitted,29.1925
+Public acute group C hospitals,Semi-urgent,WA,less_4hr_admitted,35.438
+Public acute group C hospitals,Non-urgent,WA,less_4hr_admitted,53.8306
+All hospitals,Resuscitation,WA,less_4hr_admitted,41.6655
+All hospitals,Emergency,WA,less_4hr_admitted,29.8391
+All hospitals,Urgent,WA,less_4hr_admitted,18.1391
+All hospitals,Semi-urgent,WA,less_4hr_admitted,20.6039
+All hospitals,Non-urgent,WA,less_4hr_admitted,35.8889
+Principal referral and womens and children's hospitals,Resuscitation,SA,less_4hr_admitted,43.5321
+Principal referral and womens and children's hospitals,Emergency,SA,less_4hr_admitted,28.9356
+Principal referral and womens and children's hospitals,Urgent,SA,less_4hr_admitted,24.0666
+Principal referral and womens and children's hospitals,Semi-urgent,SA,less_4hr_admitted,33.4226
+Principal referral and womens and children's hospitals,Non-urgent,SA,less_4hr_admitted,46.7532
+Public acute group A hospitals,Resuscitation,SA,less_4hr_admitted,39.1671
+Public acute group A hospitals,Emergency,SA,less_4hr_admitted,32.7837
+Public acute group A hospitals,Urgent,SA,less_4hr_admitted,18.3385
+Public acute group A hospitals,Semi-urgent,SA,less_4hr_admitted,17.8905
+Public acute group A hospitals,Non-urgent,SA,less_4hr_admitted,24.3631
+Public acute group B hospitals,Resuscitation,SA,less_4hr_admitted,41.8605
+Public acute group B hospitals,Emergency,SA,less_4hr_admitted,34.243
+Public acute group B hospitals,Urgent,SA,less_4hr_admitted,26.2893
+Public acute group B hospitals,Semi-urgent,SA,less_4hr_admitted,27.5931
+Public acute group B hospitals,Non-urgent,SA,less_4hr_admitted,55.1351
+Public acute group C hospitals,Resuscitation,SA,less_4hr_admitted,43.932
+Public acute group C hospitals,Emergency,SA,less_4hr_admitted,40.0356
+Public acute group C hospitals,Urgent,SA,less_4hr_admitted,36.5331
+Public acute group C hospitals,Semi-urgent,SA,less_4hr_admitted,39.1124
+Public acute group C hospitals,Non-urgent,SA,less_4hr_admitted,61.039
+All hospitals,Resuscitation,SA,less_4hr_admitted,42.1932
+All hospitals,Emergency,SA,less_4hr_admitted,31.2999
+All hospitals,Urgent,SA,less_4hr_admitted,24.2191
+All hospitals,Semi-urgent,SA,less_4hr_admitted,28.1878
+All hospitals,Non-urgent,SA,less_4hr_admitted,40.9349
+Principal referral and womens and children's hospitals,Resuscitation,Tas,less_4hr_admitted,49.1863
+Principal referral and womens and children's hospitals,Emergency,Tas,less_4hr_admitted,33.5895
+Principal referral and womens and children's hospitals,Urgent,Tas,less_4hr_admitted,18.7019
+Principal referral and womens and children's hospitals,Semi-urgent,Tas,less_4hr_admitted,17.9911
+Principal referral and womens and children's hospitals,Non-urgent,Tas,less_4hr_admitted,34.6734
+Public acute group A hospitals,Resuscitation,Tas,less_4hr_admitted,44.3515
+Public acute group A hospitals,Emergency,Tas,less_4hr_admitted,16.5164
+Public acute group A hospitals,Urgent,Tas,less_4hr_admitted,10.0046
+Public acute group A hospitals,Semi-urgent,Tas,less_4hr_admitted,14.3867
+Public acute group A hospitals,Non-urgent,Tas,less_4hr_admitted,42.3841
+Public acute group B hospitals,Resuscitation,Tas,less_4hr_admitted,25
+Public acute group B hospitals,Emergency,Tas,less_4hr_admitted,25.7647
+Public acute group B hospitals,Urgent,Tas,less_4hr_admitted,25.4555
+Public acute group B hospitals,Semi-urgent,Tas,less_4hr_admitted,28.9082
+Public acute group B hospitals,Non-urgent,Tas,less_4hr_admitted,60
+All hospitals,Resuscitation,Tas,less_4hr_admitted,46.6094
+All hospitals,Emergency,Tas,less_4hr_admitted,26.603
+All hospitals,Urgent,Tas,less_4hr_admitted,15.6795
+All hospitals,Semi-urgent,Tas,less_4hr_admitted,17.8093
+All hospitals,Non-urgent,Tas,less_4hr_admitted,39.7368
+Principal referral and womens and children's hospitals,Resuscitation,ACT,less_4hr_admitted,54.5455
+Principal referral and womens and children's hospitals,Emergency,ACT,less_4hr_admitted,50.6012
+Principal referral and womens and children's hospitals,Urgent,ACT,less_4hr_admitted,43.7009
+Principal referral and womens and children's hospitals,Semi-urgent,ACT,less_4hr_admitted,50.9462
+Principal referral and womens and children's hospitals,Non-urgent,ACT,less_4hr_admitted,61.0588
+Public acute group A hospitals,Resuscitation,ACT,less_4hr_admitted,43.6364
+Public acute group A hospitals,Emergency,ACT,less_4hr_admitted,61.0187
+Public acute group A hospitals,Urgent,ACT,less_4hr_admitted,47.6417
+Public acute group A hospitals,Semi-urgent,ACT,less_4hr_admitted,50.5605
+Public acute group A hospitals,Non-urgent,ACT,less_4hr_admitted,51.8349
+All hospitals,Resuscitation,ACT,less_4hr_admitted,52.3636
+All hospitals,Emergency,ACT,less_4hr_admitted,53.6087
+All hospitals,Urgent,ACT,less_4hr_admitted,45.1081
+All hospitals,Semi-urgent,ACT,less_4hr_admitted,50.8238
+All hospitals,Non-urgent,ACT,less_4hr_admitted,59.176
+Principal referral and womens and children's hospitals,Resuscitation,NT,less_4hr_admitted,35.3606
+Principal referral and womens and children's hospitals,Emergency,NT,less_4hr_admitted,25.2872
+Principal referral and womens and children's hospitals,Urgent,NT,less_4hr_admitted,20.2876
+Principal referral and womens and children's hospitals,Semi-urgent,NT,less_4hr_admitted,20.7615
+Principal referral and womens and children's hospitals,Non-urgent,NT,less_4hr_admitted,24.7148
+Public acute group A hospitals,Resuscitation,NT,less_4hr_admitted,54.2373
+Public acute group A hospitals,Emergency,NT,less_4hr_admitted,41.3497
+Public acute group A hospitals,Urgent,NT,less_4hr_admitted,38.2368
+Public acute group A hospitals,Semi-urgent,NT,less_4hr_admitted,34.203
+Public acute group A hospitals,Non-urgent,NT,less_4hr_admitted,38.1215
+Public acute group C hospitals,Resuscitation,NT,less_4hr_admitted,25.7576
+Public acute group C hospitals,Emergency,NT,less_4hr_admitted,34.1575
+Public acute group C hospitals,Urgent,NT,less_4hr_admitted,31.2316
+Public acute group C hospitals,Semi-urgent,NT,less_4hr_admitted,30.8677
+Public acute group C hospitals,Non-urgent,NT,less_4hr_admitted,39.8305
+All hospitals,Resuscitation,NT,less_4hr_admitted,37.4589
+All hospitals,Emergency,NT,less_4hr_admitted,31.4856
+All hospitals,Urgent,NT,less_4hr_admitted,28.5054
+All hospitals,Semi-urgent,NT,less_4hr_admitted,26.096
+All hospitals,Non-urgent,NT,less_4hr_admitted,34.5238
+Principal referral and womens and children's hospitals,Resuscitation,NSW,less_4hr_not_admitted,39.3748
+Principal referral and womens and children's hospitals,Emergency,NSW,less_4hr_not_admitted,41.5265
+Principal referral and womens and children's hospitals,Urgent,NSW,less_4hr_not_admitted,49.4607
+Principal referral and womens and children's hospitals,Semi-urgent,NSW,less_4hr_not_admitted,65.8492
+Principal referral and womens and children's hospitals,Non-urgent,NSW,less_4hr_not_admitted,80.3421
+Public acute group A hospitals,Resuscitation,NSW,less_4hr_not_admitted,41.3694
+Public acute group A hospitals,Emergency,NSW,less_4hr_not_admitted,51.3203
+Public acute group A hospitals,Urgent,NSW,less_4hr_not_admitted,53.4283
+Public acute group A hospitals,Semi-urgent,NSW,less_4hr_not_admitted,67.764
+Public acute group A hospitals,Non-urgent,NSW,less_4hr_not_admitted,81.7656
+Public acute group B hospitals,Resuscitation,NSW,less_4hr_not_admitted,44.3154
+Public acute group B hospitals,Emergency,NSW,less_4hr_not_admitted,51.5493
+Public acute group B hospitals,Urgent,NSW,less_4hr_not_admitted,59.0113
+Public acute group B hospitals,Semi-urgent,NSW,less_4hr_not_admitted,75.0315
+Public acute group B hospitals,Non-urgent,NSW,less_4hr_not_admitted,87.7873
+Public acute group C hospitals,Resuscitation,NSW,less_4hr_not_admitted,57.2634
+Public acute group C hospitals,Emergency,NSW,less_4hr_not_admitted,58.5181
+Public acute group C hospitals,Urgent,NSW,less_4hr_not_admitted,73.4131
+Public acute group C hospitals,Semi-urgent,NSW,less_4hr_not_admitted,88.2232
+Public acute group C hospitals,Non-urgent,NSW,less_4hr_not_admitted,94.8828
+All hospitals,Resuscitation,NSW,less_4hr_not_admitted,44.1683
+All hospitals,Emergency,NSW,less_4hr_not_admitted,50.2815
+All hospitals,Urgent,NSW,less_4hr_not_admitted,57.2427
+All hospitals,Semi-urgent,NSW,less_4hr_not_admitted,74.1354
+All hospitals,Non-urgent,NSW,less_4hr_not_admitted,88.4721
+Principal referral and womens and children's hospitals,Resuscitation,VIC,less_4hr_not_admitted,43.1446
+Principal referral and womens and children's hospitals,Emergency,VIC,less_4hr_not_admitted,50.8903
+Principal referral and womens and children's hospitals,Urgent,VIC,less_4hr_not_admitted,59.6497
+Principal referral and womens and children's hospitals,Semi-urgent,VIC,less_4hr_not_admitted,72.433
+Principal referral and womens and children's hospitals,Non-urgent,VIC,less_4hr_not_admitted,84.9712
+Public acute group A hospitals,Resuscitation,VIC,less_4hr_not_admitted,33.0211
+Public acute group A hospitals,Emergency,VIC,less_4hr_not_admitted,47.8281
+Public acute group A hospitals,Urgent,VIC,less_4hr_not_admitted,50.663
+Public acute group A hospitals,Semi-urgent,VIC,less_4hr_not_admitted,65.9361
+Public acute group A hospitals,Non-urgent,VIC,less_4hr_not_admitted,82.4259
+Public acute group B hospitals,Resuscitation,VIC,less_4hr_not_admitted,38.2883
+Public acute group B hospitals,Emergency,VIC,less_4hr_not_admitted,46.5962
+Public acute group B hospitals,Urgent,VIC,less_4hr_not_admitted,50.9837
+Public acute group B hospitals,Semi-urgent,VIC,less_4hr_not_admitted,69.4395
+Public acute group B hospitals,Non-urgent,VIC,less_4hr_not_admitted,87.1767
+Public acute group C hospitals,Resuscitation,VIC,less_4hr_not_admitted,38.8889
+Public acute group C hospitals,Emergency,VIC,less_4hr_not_admitted,53.0917
+Public acute group C hospitals,Urgent,VIC,less_4hr_not_admitted,64.9801
+Public acute group C hospitals,Semi-urgent,VIC,less_4hr_not_admitted,82.9279
+Public acute group C hospitals,Non-urgent,VIC,less_4hr_not_admitted,91.4754
+All hospitals,Resuscitation,VIC,less_4hr_not_admitted,36.645
+All hospitals,Emergency,VIC,less_4hr_not_admitted,49.2363
+All hospitals,Urgent,VIC,less_4hr_not_admitted,54.0643
+All hospitals,Semi-urgent,VIC,less_4hr_not_admitted,69.6886
+All hospitals,Non-urgent,VIC,less_4hr_not_admitted,84.0834
+Principal referral and womens and children's hospitals,Resuscitation,Qld,less_4hr_not_admitted,40.1824
+Principal referral and womens and children's hospitals,Emergency,Qld,less_4hr_not_admitted,48.0585
+Principal referral and womens and children's hospitals,Urgent,Qld,less_4hr_not_admitted,52.586
+Principal referral and womens and children's hospitals,Semi-urgent,Qld,less_4hr_not_admitted,68.6128
+Principal referral and womens and children's hospitals,Non-urgent,Qld,less_4hr_not_admitted,79.8296
+Public acute group A hospitals,Resuscitation,Qld,less_4hr_not_admitted,40.364
+Public acute group A hospitals,Emergency,Qld,less_4hr_not_admitted,45.1118
+Public acute group A hospitals,Urgent,Qld,less_4hr_not_admitted,50.1691
+Public acute group A hospitals,Semi-urgent,Qld,less_4hr_not_admitted,68.451
+Public acute group A hospitals,Non-urgent,Qld,less_4hr_not_admitted,82.3937
+Public acute group B hospitals,Resuscitation,Qld,less_4hr_not_admitted,43.8534
+Public acute group B hospitals,Emergency,Qld,less_4hr_not_admitted,53.9602
+Public acute group B hospitals,Urgent,Qld,less_4hr_not_admitted,57.8812
+Public acute group B hospitals,Semi-urgent,Qld,less_4hr_not_admitted,78.1661
+Public acute group B hospitals,Non-urgent,Qld,less_4hr_not_admitted,91.9022
+All hospitals,Resuscitation,Qld,less_4hr_not_admitted,40.9349
+All hospitals,Emergency,Qld,less_4hr_not_admitted,47.7898
+All hospitals,Urgent,Qld,less_4hr_not_admitted,52.5746
+All hospitals,Semi-urgent,Qld,less_4hr_not_admitted,70.682
+All hospitals,Non-urgent,Qld,less_4hr_not_admitted,83.2959
+Principal referral and womens and children's hospitals,Resuscitation,WA,less_4hr_not_admitted,45.5954
+Principal referral and womens and children's hospitals,Emergency,WA,less_4hr_not_admitted,56.9834
+Principal referral and womens and children's hospitals,Urgent,WA,less_4hr_not_admitted,49.8897
+Principal referral and womens and children's hospitals,Semi-urgent,WA,less_4hr_not_admitted,63.2147
+Principal referral and womens and children's hospitals,Non-urgent,WA,less_4hr_not_admitted,71.8092
+Public acute group A hospitals,Resuscitation,WA,less_4hr_not_admitted,44.3249
+Public acute group A hospitals,Emergency,WA,less_4hr_not_admitted,48.952
+Public acute group A hospitals,Urgent,WA,less_4hr_not_admitted,45.9371
+Public acute group A hospitals,Semi-urgent,WA,less_4hr_not_admitted,61.6595
+Public acute group A hospitals,Non-urgent,WA,less_4hr_not_admitted,76.2568
+Public acute group B hospitals,Resuscitation,WA,less_4hr_not_admitted,37.3199
+Public acute group B hospitals,Emergency,WA,less_4hr_not_admitted,55.809
+Public acute group B hospitals,Urgent,WA,less_4hr_not_admitted,61.7215
+Public acute group B hospitals,Semi-urgent,WA,less_4hr_not_admitted,77.2401
+Public acute group B hospitals,Non-urgent,WA,less_4hr_not_admitted,85.8397
+Public acute group C hospitals,Resuscitation,WA,less_4hr_not_admitted,32.7839
+Public acute group C hospitals,Emergency,WA,less_4hr_not_admitted,56.0211
+Public acute group C hospitals,Urgent,WA,less_4hr_not_admitted,73.0365
+Public acute group C hospitals,Semi-urgent,WA,less_4hr_not_admitted,88.1092
+Public acute group C hospitals,Non-urgent,WA,less_4hr_not_admitted,93.5944
+All hospitals,Resuscitation,WA,less_4hr_not_admitted,41.3354
+All hospitals,Emergency,WA,less_4hr_not_admitted,53.6136
+All hospitals,Urgent,WA,less_4hr_not_admitted,53.6673
+All hospitals,Semi-urgent,WA,less_4hr_not_admitted,71.4993
+All hospitals,Non-urgent,WA,less_4hr_not_admitted,86.0878
+Principal referral and womens and children's hospitals,Resuscitation,SA,less_4hr_not_admitted,40.8184
+Principal referral and womens and children's hospitals,Emergency,SA,less_4hr_not_admitted,45.7689
+Principal referral and womens and children's hospitals,Urgent,SA,less_4hr_not_admitted,46.3966
+Principal referral and womens and children's hospitals,Semi-urgent,SA,less_4hr_not_admitted,63.587
+Principal referral and womens and children's hospitals,Non-urgent,SA,less_4hr_not_admitted,74.5755
+Public acute group A hospitals,Resuscitation,SA,less_4hr_not_admitted,43.0108
+Public acute group A hospitals,Emergency,SA,less_4hr_not_admitted,39.6385
+Public acute group A hospitals,Urgent,SA,less_4hr_not_admitted,35.6984
+Public acute group A hospitals,Semi-urgent,SA,less_4hr_not_admitted,53.0142
+Public acute group A hospitals,Non-urgent,SA,less_4hr_not_admitted,74.2485
+Public acute group B hospitals,Resuscitation,SA,less_4hr_not_admitted,39.1667
+Public acute group B hospitals,Emergency,SA,less_4hr_not_admitted,46.5375
+Public acute group B hospitals,Urgent,SA,less_4hr_not_admitted,50.363
+Public acute group B hospitals,Semi-urgent,SA,less_4hr_not_admitted,70.1303
+Public acute group B hospitals,Non-urgent,SA,less_4hr_not_admitted,86.2621
+Public acute group C hospitals,Resuscitation,SA,less_4hr_not_admitted,49.8442
+Public acute group C hospitals,Emergency,SA,less_4hr_not_admitted,58.5629
+Public acute group C hospitals,Urgent,SA,less_4hr_not_admitted,63.3456
+Public acute group C hospitals,Semi-urgent,SA,less_4hr_not_admitted,79.4308
+Public acute group C hospitals,Non-urgent,SA,less_4hr_not_admitted,90.6567
+All hospitals,Resuscitation,SA,less_4hr_not_admitted,42.5926
+All hospitals,Emergency,SA,less_4hr_not_admitted,47.6078
+All hospitals,Urgent,SA,less_4hr_not_admitted,48.5019
+All hospitals,Semi-urgent,SA,less_4hr_not_admitted,67.204
+All hospitals,Non-urgent,SA,less_4hr_not_admitted,81.8292
+Principal referral and womens and children's hospitals,Resuscitation,Tas,less_4hr_not_admitted,43.1579
+Principal referral and womens and children's hospitals,Emergency,Tas,less_4hr_not_admitted,49.1176
+Principal referral and womens and children's hospitals,Urgent,Tas,less_4hr_not_admitted,49.2098
+Principal referral and womens and children's hospitals,Semi-urgent,Tas,less_4hr_not_admitted,57.6065
+Principal referral and womens and children's hospitals,Non-urgent,Tas,less_4hr_not_admitted,70.0175
+Public acute group A hospitals,Resuscitation,Tas,less_4hr_not_admitted,37.2385
+Public acute group A hospitals,Emergency,Tas,less_4hr_not_admitted,42.9975
+Public acute group A hospitals,Urgent,Tas,less_4hr_not_admitted,46.7047
+Public acute group A hospitals,Semi-urgent,Tas,less_4hr_not_admitted,65.1458
+Public acute group A hospitals,Non-urgent,Tas,less_4hr_not_admitted,81.9451
+Public acute group B hospitals,Resuscitation,Tas,less_4hr_not_admitted,53.8462
+Public acute group B hospitals,Emergency,Tas,less_4hr_not_admitted,54.8321
+Public acute group B hospitals,Urgent,Tas,less_4hr_not_admitted,69.7619
+Public acute group B hospitals,Semi-urgent,Tas,less_4hr_not_admitted,84.6268
+Public acute group B hospitals,Non-urgent,Tas,less_4hr_not_admitted,92.8626
+All hospitals,Resuscitation,Tas,less_4hr_not_admitted,40.4826
+All hospitals,Emergency,Tas,less_4hr_not_admitted,46.7955
+All hospitals,Urgent,Tas,less_4hr_not_admitted,51.4375
+All hospitals,Semi-urgent,Tas,less_4hr_not_admitted,68.1148
+All hospitals,Non-urgent,Tas,less_4hr_not_admitted,78.0951
+Principal referral and womens and children's hospitals,Resuscitation,ACT,less_4hr_not_admitted,37.2414
+Principal referral and womens and children's hospitals,Emergency,ACT,less_4hr_not_admitted,62.8421
+Principal referral and womens and children's hospitals,Urgent,ACT,less_4hr_not_admitted,66.2192
+Principal referral and womens and children's hospitals,Semi-urgent,ACT,less_4hr_not_admitted,75.9722
+Principal referral and womens and children's hospitals,Non-urgent,ACT,less_4hr_not_admitted,86.6152
+Public acute group A hospitals,Resuscitation,ACT,less_4hr_not_admitted,36.6197
+Public acute group A hospitals,Emergency,ACT,less_4hr_not_admitted,56.338
+Public acute group A hospitals,Urgent,ACT,less_4hr_not_admitted,56.3744
+Public acute group A hospitals,Semi-urgent,ACT,less_4hr_not_admitted,72.2293
+Public acute group A hospitals,Non-urgent,ACT,less_4hr_not_admitted,86.4339
+All hospitals,Resuscitation,ACT,less_4hr_not_admitted,37.037
+All hospitals,Emergency,ACT,less_4hr_not_admitted,60.6082
+All hospitals,Urgent,ACT,less_4hr_not_admitted,62.1571
+All hospitals,Semi-urgent,ACT,less_4hr_not_admitted,74.3034
+All hospitals,Non-urgent,ACT,less_4hr_not_admitted,86.5372
+Principal referral and womens and children's hospitals,Resuscitation,NT,less_4hr_not_admitted,48.1928
+Principal referral and womens and children's hospitals,Emergency,NT,less_4hr_not_admitted,40.3173
+Principal referral and womens and children's hospitals,Urgent,NT,less_4hr_not_admitted,45.0442
+Principal referral and womens and children's hospitals,Semi-urgent,NT,less_4hr_not_admitted,56.2041
+Principal referral and womens and children's hospitals,Non-urgent,NT,less_4hr_not_admitted,66.2418
+Public acute group A hospitals,Resuscitation,NT,less_4hr_not_admitted,76.9231
+Public acute group A hospitals,Emergency,NT,less_4hr_not_admitted,73.4033
+Public acute group A hospitals,Urgent,NT,less_4hr_not_admitted,76.8281
+Public acute group A hospitals,Semi-urgent,NT,less_4hr_not_admitted,79.5817
+Public acute group A hospitals,Non-urgent,NT,less_4hr_not_admitted,85.986
+Public acute group C hospitals,Resuscitation,NT,less_4hr_not_admitted,41.2698
+Public acute group C hospitals,Emergency,NT,less_4hr_not_admitted,52.0893
+Public acute group C hospitals,Urgent,NT,less_4hr_not_admitted,57.9496
+Public acute group C hospitals,Semi-urgent,NT,less_4hr_not_admitted,71.7737
+Public acute group C hospitals,Non-urgent,NT,less_4hr_not_admitted,86.6856
+All hospitals,Resuscitation,NT,less_4hr_not_admitted,45.9459
+All hospitals,Emergency,NT,less_4hr_not_admitted,51.3153
+All hospitals,Urgent,NT,less_4hr_not_admitted,57.8799
+All hospitals,Semi-urgent,NT,less_4hr_not_admitted,69.0776
+All hospitals,Non-urgent,NT,less_4hr_not_admitted,82.1784
+Principal referral and womens and children's hospitals,Resuscitation,NSW,admission_rate,73.8192
+Principal referral and womens and children's hospitals,Emergency,NSW,admission_rate,54.6736
+Principal referral and womens and children's hospitals,Urgent,NSW,admission_rate,39.5283
+Principal referral and womens and children's hospitals,Semi-urgent,NSW,admission_rate,16.2862
+Principal referral and womens and children's hospitals,Non-urgent,NSW,admission_rate,8.6245
+Public acute group A hospitals,Resuscitation,NSW,admission_rate,70.0594
+Public acute group A hospitals,Emergency,NSW,admission_rate,51.3538
+Public acute group A hospitals,Urgent,NSW,admission_rate,37.2087
+Public acute group A hospitals,Semi-urgent,NSW,admission_rate,16.0827
+Public acute group A hospitals,Non-urgent,NSW,admission_rate,6.2183
+Public acute group B hospitals,Resuscitation,NSW,admission_rate,52.051
+Public acute group B hospitals,Emergency,NSW,admission_rate,32.8559
+Public acute group B hospitals,Urgent,NSW,admission_rate,23.1293
+Public acute group B hospitals,Semi-urgent,NSW,admission_rate,8.435
+Public acute group B hospitals,Non-urgent,NSW,admission_rate,5.1096
+Other hospitals,Resuscitation,NSW,admission_rate,14.2857
+Other hospitals,Emergency,NSW,admission_rate,12.8339
+Other hospitals,Urgent,NSW,admission_rate,11.4958
+Other hospitals,Semi-urgent,NSW,admission_rate,4.0604
+Other hospitals,Non-urgent,NSW,admission_rate,1.3589
+All hospitals,Resuscitation,NSW,admission_rate,66.7862
+All hospitals,Emergency,NSW,admission_rate,45.2812
+All hospitals,Urgent,NSW,admission_rate,31.959
+All hospitals,Semi-urgent,NSW,admission_rate,11.8732
+All hospitals,Non-urgent,NSW,admission_rate,4.6116
+Principal referral and womens and children's hospitals,Resuscitation,VIC,admission_rate,81.2018
+Principal referral and womens and children's hospitals,Emergency,VIC,admission_rate,69.4768
+Principal referral and womens and children's hospitals,Urgent,VIC,admission_rate,51.1631
+Principal referral and womens and children's hospitals,Semi-urgent,VIC,admission_rate,26.7869
+Principal referral and womens and children's hospitals,Non-urgent,VIC,admission_rate,9.2348
+Public acute group A hospitals,Resuscitation,VIC,admission_rate,69.166
+Public acute group A hospitals,Emergency,VIC,admission_rate,58.8922
+Public acute group A hospitals,Urgent,VIC,admission_rate,42.0688
+Public acute group A hospitals,Semi-urgent,VIC,admission_rate,21.8308
+Public acute group A hospitals,Non-urgent,VIC,admission_rate,6.6594
+Public acute group B hospitals,Resuscitation,VIC,admission_rate,58.6207
+Public acute group B hospitals,Emergency,VIC,admission_rate,50.0425
+Public acute group B hospitals,Urgent,VIC,admission_rate,35.0607
+Public acute group B hospitals,Semi-urgent,VIC,admission_rate,18.5174
+Public acute group B hospitals,Non-urgent,VIC,admission_rate,3.3424
+Other hospitals,Resuscitation,VIC,admission_rate,57.8295
+Other hospitals,Emergency,VIC,admission_rate,51.1403
+Other hospitals,Urgent,VIC,admission_rate,31.3774
+Other hospitals,Semi-urgent,VIC,admission_rate,9.7275
+Other hospitals,Non-urgent,VIC,admission_rate,2.1139
+All hospitals,Resuscitation,VIC,admission_rate,73.0863
+All hospitals,Emergency,VIC,admission_rate,60.5119
+All hospitals,Urgent,VIC,admission_rate,43.2517
+All hospitals,Semi-urgent,VIC,admission_rate,21.3565
+All hospitals,Non-urgent,VIC,admission_rate,5.9623
+Principal referral and womens and children's hospitals,Resuscitation,Qld,admission_rate,81.1754
+Principal referral and womens and children's hospitals,Emergency,Qld,admission_rate,52.2395
+Principal referral and womens and children's hospitals,Urgent,Qld,admission_rate,37.3453
+Principal referral and womens and children's hospitals,Semi-urgent,Qld,admission_rate,16.8846
+Principal referral and womens and children's hospitals,Non-urgent,Qld,admission_rate,7.9973
+Public acute group A hospitals,Resuscitation,Qld,admission_rate,74.4765
+Public acute group A hospitals,Emergency,Qld,admission_rate,52.37
+Public acute group A hospitals,Urgent,Qld,admission_rate,39.6311
+Public acute group A hospitals,Semi-urgent,Qld,admission_rate,17.2634
+Public acute group A hospitals,Non-urgent,Qld,admission_rate,5.9873
+Public acute group B hospitals,Resuscitation,Qld,admission_rate,58.6595
+Public acute group B hospitals,Emergency,Qld,admission_rate,45.5796
+Public acute group B hospitals,Urgent,Qld,admission_rate,33.1094
+Public acute group B hospitals,Semi-urgent,Qld,admission_rate,10.5813
+Public acute group B hospitals,Non-urgent,Qld,admission_rate,3.4383
+All hospitals,Resuscitation,Qld,admission_rate,76.2385
+All hospitals,Emergency,Qld,admission_rate,51.1744
+All hospitals,Urgent,Qld,admission_rate,37.5995
+All hospitals,Semi-urgent,Qld,admission_rate,15.7184
+All hospitals,Non-urgent,Qld,admission_rate,6.4223
+Principal referral and womens and children's hospitals,Resuscitation,WA,admission_rate,82.1113
+Principal referral and womens and children's hospitals,Emergency,WA,admission_rate,60.2163
+Principal referral and womens and children's hospitals,Urgent,WA,admission_rate,36.6943
+Principal referral and womens and children's hospitals,Semi-urgent,WA,admission_rate,15.4926
+Principal referral and womens and children's hospitals,Non-urgent,WA,admission_rate,6.664
+Public acute group A hospitals,Resuscitation,WA,admission_rate,61.4048
+Public acute group A hospitals,Emergency,WA,admission_rate,40.0389
+Public acute group A hospitals,Urgent,WA,admission_rate,23.332
+Public acute group A hospitals,Semi-urgent,WA,admission_rate,10.0569
+Public acute group A hospitals,Non-urgent,WA,admission_rate,3.8638
+Public acute group B hospitals,Resuscitation,WA,admission_rate,49.0816
+Public acute group B hospitals,Emergency,WA,admission_rate,39.9178
+Public acute group B hospitals,Urgent,WA,admission_rate,26.5559
+Public acute group B hospitals,Semi-urgent,WA,admission_rate,9.3724
+Public acute group B hospitals,Non-urgent,WA,admission_rate,3.6285
+Other hospitals,Resuscitation,WA,admission_rate,31.8695
+Other hospitals,Emergency,WA,admission_rate,29.3468
+Other hospitals,Urgent,WA,admission_rate,21.6745
+Other hospitals,Semi-urgent,WA,admission_rate,6.2663
+Other hospitals,Non-urgent,WA,admission_rate,1.7661
+All hospitals,Resuscitation,WA,admission_rate,68.8889
+All hospitals,Emergency,WA,admission_rate,46.9039
+All hospitals,Urgent,WA,admission_rate,28.6386
+All hospitals,Semi-urgent,WA,admission_rate,10.7914
+All hospitals,Non-urgent,WA,admission_rate,3.3258
+Principal referral and womens and children's hospitals,Resuscitation,SA,admission_rate,77.9635
+Principal referral and womens and children's hospitals,Emergency,SA,admission_rate,62.1423
+Principal referral and womens and children's hospitals,Urgent,SA,admission_rate,40.503
+Principal referral and womens and children's hospitals,Semi-urgent,SA,admission_rate,21.1049
+Principal referral and womens and children's hospitals,Non-urgent,SA,admission_rate,6.8064
+Public acute group A hospitals,Resuscitation,SA,admission_rate,73.1657
+Public acute group A hospitals,Emergency,SA,admission_rate,56.1538
+Public acute group A hospitals,Urgent,SA,admission_rate,37.3807
+Public acute group A hospitals,Semi-urgent,SA,admission_rate,19.3154
+Public acute group A hospitals,Non-urgent,SA,admission_rate,6.0568
+Public acute group B hospitals,Resuscitation,SA,admission_rate,55.6377
+Public acute group B hospitals,Emergency,SA,admission_rate,31.5794
+Public acute group B hospitals,Urgent,SA,admission_rate,22.2436
+Public acute group B hospitals,Semi-urgent,SA,admission_rate,8.5525
+Public acute group B hospitals,Non-urgent,SA,admission_rate,2.0318
+Other hospitals,Resuscitation,SA,admission_rate,56.3611
+Other hospitals,Emergency,SA,admission_rate,27.8818
+Other hospitals,Urgent,SA,admission_rate,21.7926
+Other hospitals,Semi-urgent,SA,admission_rate,7.2709
+Other hospitals,Non-urgent,SA,admission_rate,2.1257
+All hospitals,Resuscitation,SA,admission_rate,73.1716
+All hospitals,Emergency,SA,admission_rate,51.7402
+All hospitals,Urgent,SA,admission_rate,32.8851
+All hospitals,Semi-urgent,SA,admission_rate,14.3411
+All hospitals,Non-urgent,SA,admission_rate,4.2697
+Principal referral and womens and children's hospitals,Resuscitation,Tas,admission_rate,85.3395
+Principal referral and womens and children's hospitals,Emergency,Tas,admission_rate,62.7023
+Principal referral and womens and children's hospitals,Urgent,Tas,admission_rate,39.7502
+Principal referral and womens and children's hospitals,Semi-urgent,Tas,admission_rate,18.4956
+Principal referral and womens and children's hospitals,Non-urgent,Tas,admission_rate,5.3853
+Public acute group A hospitals,Resuscitation,Tas,admission_rate,66.5734
+Public acute group A hospitals,Emergency,Tas,admission_rate,47.6656
+Public acute group A hospitals,Urgent,Tas,admission_rate,32.793
+Public acute group A hospitals,Semi-urgent,Tas,admission_rate,12.6518
+Public acute group A hospitals,Non-urgent,Tas,admission_rate,6.0447
+Public acute group B hospitals,Resuscitation,Tas,admission_rate,29.6296
+Public acute group B hospitals,Emergency,Tas,admission_rate,30.1599
+Public acute group B hospitals,Urgent,Tas,admission_rate,19.0227
+Public acute group B hospitals,Semi-urgent,Tas,admission_rate,5.1422
+Public acute group B hospitals,Non-urgent,Tas,admission_rate,2.1577
+All hospitals,Resuscitation,Tas,admission_rate,73.7474
+All hospitals,Emergency,Tas,admission_rate,53.534
+All hospitals,Urgent,Tas,admission_rate,34.1194
+All hospitals,Semi-urgent,Tas,admission_rate,12.8592
+All hospitals,Non-urgent,Tas,admission_rate,5.0238
+Principal referral and womens and children's hospitals,Resuscitation,ACT,admission_rate,81.6688
+Principal referral and womens and children's hospitals,Emergency,ACT,admission_rate,71.7625
+Principal referral and womens and children's hospitals,Urgent,ACT,admission_rate,52.554
+Principal referral and womens and children's hospitals,Semi-urgent,ACT,admission_rate,31.7922
+Principal referral and womens and children's hospitals,Non-urgent,ACT,admission_rate,13.7097
+Public acute group A hospitals,Resuscitation,ACT,admission_rate,69.9153
+Public acute group A hospitals,Emergency,ACT,admission_rate,66.446
+Public acute group A hospitals,Urgent,ACT,admission_rate,46.9483
+Public acute group A hospitals,Semi-urgent,ACT,admission_rate,21.3056
+Public acute group A hospitals,Non-urgent,ACT,admission_rate,4.984
+All hospitals,Resuscitation,ACT,admission_rate,78.9679
+All hospitals,Emergency,ACT,admission_rate,70.1344
+All hospitals,Urgent,ACT,admission_rate,50.3901
+All hospitals,Semi-urgent,ACT,admission_rate,27.4834
+All hospitals,Non-urgent,ACT,admission_rate,10.2182
+Principal referral and womens and children's hospitals,Resuscitation,NT,admission_rate,87.3956
+Principal referral and womens and children's hospitals,Emergency,NT,admission_rate,66.678
+Principal referral and womens and children's hospitals,Urgent,NT,admission_rate,54.0868
+Principal referral and womens and children's hospitals,Semi-urgent,NT,admission_rate,29.064
+Principal referral and womens and children's hospitals,Non-urgent,NT,admission_rate,8.7333
+Public acute group A hospitals,Resuscitation,NT,admission_rate,90.4215
+Public acute group A hospitals,Emergency,NT,admission_rate,71.3744
+Public acute group A hospitals,Urgent,NT,admission_rate,56.7225
+Public acute group A hospitals,Semi-urgent,NT,admission_rate,19.7524
+Public acute group A hospitals,Non-urgent,NT,admission_rate,14.6322
+Other hospitals,Resuscitation,NT,admission_rate,34.4737
+Other hospitals,Emergency,NT,admission_rate,26.3993
+Other hospitals,Urgent,NT,admission_rate,21.6175
+Other hospitals,Semi-urgent,NT,admission_rate,7.0168
+Other hospitals,Non-urgent,NT,admission_rate,1.4728
+All hospitals,Resuscitation,NT,admission_rate,77.5281
+All hospitals,Emergency,NT,admission_rate,55.4455
+All hospitals,Urgent,NT,admission_rate,44.118
+All hospitals,Semi-urgent,NT,admission_rate,17.1905
+All hospitals,Non-urgent,NT,admission_rate,6.7592
+Principal referral and womens and children's hospitals,Resuscitation,NSW,seen_on_time,99.9548
+Principal referral and womens and children's hospitals,Emergency,NSW,seen_on_time,74.9598
+Principal referral and womens and children's hospitals,Urgent,NSW,seen_on_time,67.904
+Principal referral and womens and children's hospitals,Semi-urgent,NSW,seen_on_time,73.1714
+Principal referral and womens and children's hospitals,Non-urgent,NSW,seen_on_time,86.9421
+Public acute group A hospitals,Resuscitation,NSW,seen_on_time,99.9675
+Public acute group A hospitals,Emergency,NSW,seen_on_time,73.7796
+Public acute group A hospitals,Urgent,NSW,seen_on_time,60.0246
+Public acute group A hospitals,Semi-urgent,NSW,seen_on_time,67.0635
+Public acute group A hospitals,Non-urgent,NSW,seen_on_time,85.4447
+Public acute group B hospitals,Resuscitation,NSW,seen_on_time,99.96
+Public acute group B hospitals,Emergency,NSW,seen_on_time,76.2646
+Public acute group B hospitals,Urgent,NSW,seen_on_time,71.6857
+Public acute group B hospitals,Semi-urgent,NSW,seen_on_time,73.9467
+Public acute group B hospitals,Non-urgent,NSW,seen_on_time,88.7823
+Public acute group C hospitals,Resuscitation,NSW,seen_on_time,99.7623
+Public acute group C hospitals,Emergency,NSW,seen_on_time,82.5362
+Public acute group C hospitals,Urgent,NSW,seen_on_time,80.9371
+Public acute group C hospitals,Semi-urgent,NSW,seen_on_time,82.6513
+Public acute group C hospitals,Non-urgent,NSW,seen_on_time,93.7787
+Other hospitals,Resuscitation,NSW,seen_on_time,100
+Other hospitals,Emergency,NSW,seen_on_time,83.6672
+Other hospitals,Urgent,NSW,seen_on_time,88.1523
+Other hospitals,Semi-urgent,NSW,seen_on_time,89.6812
+Other hospitals,Non-urgent,NSW,seen_on_time,97.5413
+All hospitals,Resuscitation,NSW,seen_on_time,99.9512
+All hospitals,Emergency,NSW,seen_on_time,75.6227
+All hospitals,Urgent,NSW,seen_on_time,67.8571
+All hospitals,Semi-urgent,NSW,seen_on_time,74.1231
+All hospitals,Non-urgent,NSW,seen_on_time,90.1395
+Principal referral and womens and children's hospitals,Resuscitation,VIC,seen_on_time,100
+Principal referral and womens and children's hospitals,Emergency,VIC,seen_on_time,64.277
+Principal referral and womens and children's hospitals,Urgent,VIC,seen_on_time,72.3761
+Principal referral and womens and children's hospitals,Semi-urgent,VIC,seen_on_time,73.4373
+Principal referral and womens and children's hospitals,Non-urgent,VIC,seen_on_time,88.5196
+Public acute group A hospitals,Resuscitation,VIC,seen_on_time,100
+Public acute group A hospitals,Emergency,VIC,seen_on_time,63.7937
+Public acute group A hospitals,Urgent,VIC,seen_on_time,65.8947
+Public acute group A hospitals,Semi-urgent,VIC,seen_on_time,74.949
+Public acute group A hospitals,Non-urgent,VIC,seen_on_time,90.2398
+Public acute group B hospitals,Resuscitation,VIC,seen_on_time,100
+Public acute group B hospitals,Emergency,VIC,seen_on_time,58.5693
+Public acute group B hospitals,Urgent,VIC,seen_on_time,70.784
+Public acute group B hospitals,Semi-urgent,VIC,seen_on_time,78.4459
+Public acute group B hospitals,Non-urgent,VIC,seen_on_time,93.2116
+Public acute group C hospitals,Resuscitation,VIC,seen_on_time,100
+Public acute group C hospitals,Emergency,VIC,seen_on_time,70.6906
+Public acute group C hospitals,Urgent,VIC,seen_on_time,71.8964
+Public acute group C hospitals,Semi-urgent,VIC,seen_on_time,78.8372
+Public acute group C hospitals,Non-urgent,VIC,seen_on_time,89.6472
+Other hospitals,Resuscitation,VIC,seen_on_time,100
+Other hospitals,Emergency,VIC,seen_on_time,85.9486
+Other hospitals,Urgent,VIC,seen_on_time,77.5346
+Other hospitals,Semi-urgent,VIC,seen_on_time,83.5321
+Other hospitals,Non-urgent,VIC,seen_on_time,96.5116
+All hospitals,Resuscitation,VIC,seen_on_time,100
+All hospitals,Emergency,VIC,seen_on_time,63.9682
+All hospitals,Urgent,VIC,seen_on_time,69.1766
+All hospitals,Semi-urgent,VIC,seen_on_time,75.7456
+All hospitals,Non-urgent,VIC,seen_on_time,90.6623
+Principal referral and womens and children's hospitals,Resuscitation,Qld,seen_on_time,99.9595
+Principal referral and womens and children's hospitals,Emergency,Qld,seen_on_time,74.9079
+Principal referral and womens and children's hospitals,Urgent,Qld,seen_on_time,67.5799
+Principal referral and womens and children's hospitals,Semi-urgent,Qld,seen_on_time,76.8113
+Principal referral and womens and children's hospitals,Non-urgent,Qld,seen_on_time,91.6651
+Public acute group A hospitals,Resuscitation,Qld,seen_on_time,99.9725
+Public acute group A hospitals,Emergency,Qld,seen_on_time,71.171
+Public acute group A hospitals,Urgent,Qld,seen_on_time,64.2176
+Public acute group A hospitals,Semi-urgent,Qld,seen_on_time,77.0172
+Public acute group A hospitals,Non-urgent,Qld,seen_on_time,92.8014
+Public acute group B hospitals,Resuscitation,Qld,seen_on_time,99.9021
+Public acute group B hospitals,Emergency,Qld,seen_on_time,74.3184
+Public acute group B hospitals,Urgent,Qld,seen_on_time,73.7833
+Public acute group B hospitals,Semi-urgent,Qld,seen_on_time,80.6796
+Public acute group B hospitals,Non-urgent,Qld,seen_on_time,94.6537
+All hospitals,Resuscitation,Qld,seen_on_time,99.9584
+All hospitals,Emergency,Qld,seen_on_time,73.0111
+All hospitals,Urgent,Qld,seen_on_time,67.2104
+All hospitals,Semi-urgent,Qld,seen_on_time,77.6974
+All hospitals,Non-urgent,Qld,seen_on_time,92.6397
+Principal referral and womens and children's hospitals,Resuscitation,WA,seen_on_time,100
+Principal referral and womens and children's hospitals,Emergency,WA,seen_on_time,63.2382
+Principal referral and womens and children's hospitals,Urgent,WA,seen_on_time,21.7646
+Principal referral and womens and children's hospitals,Semi-urgent,WA,seen_on_time,37.1478
+Principal referral and womens and children's hospitals,Non-urgent,WA,seen_on_time,64.2091
+Public acute group A hospitals,Resuscitation,WA,seen_on_time,99.9242
+Public acute group A hospitals,Emergency,WA,seen_on_time,64.1013
+Public acute group A hospitals,Urgent,WA,seen_on_time,11.136
+Public acute group A hospitals,Semi-urgent,WA,seen_on_time,25.8887
+Public acute group A hospitals,Non-urgent,WA,seen_on_time,61.8746
+Public acute group B hospitals,Resuscitation,WA,seen_on_time,99.1906
+Public acute group B hospitals,Emergency,WA,seen_on_time,71.4708
+Public acute group B hospitals,Urgent,WA,seen_on_time,47.8102
+Public acute group B hospitals,Semi-urgent,WA,seen_on_time,57.9975
+Public acute group B hospitals,Non-urgent,WA,seen_on_time,83.6795
+Public acute group C hospitals,Resuscitation,WA,seen_on_time,99.4969
+Public acute group C hospitals,Emergency,WA,seen_on_time,79.1092
+Public acute group C hospitals,Urgent,WA,seen_on_time,70.4317
+Public acute group C hospitals,Semi-urgent,WA,seen_on_time,73.7611
+Public acute group C hospitals,Non-urgent,WA,seen_on_time,90.7853
+All hospitals,Resuscitation,WA,seen_on_time,99.8387
+All hospitals,Emergency,WA,seen_on_time,66.5659
+All hospitals,Urgent,WA,seen_on_time,29.4146
+All hospitals,Semi-urgent,WA,seen_on_time,46.9861
+All hospitals,Non-urgent,WA,seen_on_time,80.4318
+Principal referral and womens and children's hospitals,Resuscitation,SA,seen_on_time,98.5025
+Principal referral and womens and children's hospitals,Emergency,SA,seen_on_time,49.6451
+Principal referral and womens and children's hospitals,Urgent,SA,seen_on_time,35.8249
+Principal referral and womens and children's hospitals,Semi-urgent,SA,seen_on_time,54.1114
+Principal referral and womens and children's hospitals,Non-urgent,SA,seen_on_time,77.8728
+Public acute group A hospitals,Resuscitation,SA,seen_on_time,99.9588
+Public acute group A hospitals,Emergency,SA,seen_on_time,35.5288
+Public acute group A hospitals,Urgent,SA,seen_on_time,33.6149
+Public acute group A hospitals,Semi-urgent,SA,seen_on_time,52.5472
+Public acute group A hospitals,Non-urgent,SA,seen_on_time,79.1522
+Public acute group B hospitals,Resuscitation,SA,seen_on_time,97.2274
+Public acute group B hospitals,Emergency,SA,seen_on_time,72.4988
+Public acute group B hospitals,Urgent,SA,seen_on_time,57.812
+Public acute group B hospitals,Semi-urgent,SA,seen_on_time,66.7448
+Public acute group B hospitals,Non-urgent,SA,seen_on_time,89.1915
+Public acute group C hospitals,Resuscitation,SA,seen_on_time,99.4528
+Public acute group C hospitals,Emergency,SA,seen_on_time,59.1007
+Public acute group C hospitals,Urgent,SA,seen_on_time,59.2465
+Public acute group C hospitals,Semi-urgent,SA,seen_on_time,71.809
+Public acute group C hospitals,Non-urgent,SA,seen_on_time,89.6098
+All hospitals,Resuscitation,SA,seen_on_time,98.9319
+All hospitals,Emergency,SA,seen_on_time,50.1697
+All hospitals,Urgent,SA,seen_on_time,43.66
+All hospitals,Semi-urgent,SA,seen_on_time,61.4072
+All hospitals,Non-urgent,SA,seen_on_time,84.3354
+Principal referral and womens and children's hospitals,Resuscitation,Tas,seen_on_time,99.537
+Principal referral and womens and children's hospitals,Emergency,Tas,seen_on_time,39.0862
+Principal referral and womens and children's hospitals,Urgent,Tas,seen_on_time,27.6252
+Principal referral and womens and children's hospitals,Semi-urgent,Tas,seen_on_time,37.2238
+Principal referral and womens and children's hospitals,Non-urgent,Tas,seen_on_time,64.5833
+Public acute group A hospitals,Resuscitation,Tas,seen_on_time,99.5798
+Public acute group A hospitals,Emergency,Tas,seen_on_time,50.4754
+Public acute group A hospitals,Urgent,Tas,seen_on_time,36.6303
+Public acute group A hospitals,Semi-urgent,Tas,seen_on_time,50.0274
+Public acute group A hospitals,Non-urgent,Tas,seen_on_time,80.7671
+Public acute group B hospitals,Emergency,Tas,seen_on_time,74.369
+Public acute group B hospitals,Urgent,Tas,seen_on_time,75.0731
+Public acute group B hospitals,Semi-urgent,Tas,seen_on_time,75.9941
+Public acute group B hospitals,Non-urgent,Tas,seen_on_time,91.2343
+All hospitals,Resuscitation,Tas,seen_on_time,99.5763
+All hospitals,Emergency,Tas,seen_on_time,46.8936
+All hospitals,Urgent,Tas,seen_on_time,37.7792
+All hospitals,Semi-urgent,Tas,seen_on_time,52.3496
+All hospitals,Non-urgent,Tas,seen_on_time,74.2923
+Principal referral and womens and children's hospitals,Resuscitation,ACT,seen_on_time,99.115
+Principal referral and womens and children's hospitals,Emergency,ACT,seen_on_time,62.7306
+Principal referral and womens and children's hospitals,Urgent,ACT,seen_on_time,47.9112
+Principal referral and womens and children's hospitals,Semi-urgent,ACT,seen_on_time,64.3585
+Principal referral and womens and children's hospitals,Non-urgent,ACT,seen_on_time,87.0656
+Public acute group A hospitals,Resuscitation,ACT,seen_on_time,98.7234
+Public acute group A hospitals,Emergency,ACT,seen_on_time,68.2772
+Public acute group A hospitals,Urgent,ACT,seen_on_time,56.5701
+Public acute group A hospitals,Semi-urgent,ACT,seen_on_time,74.7388
+Public acute group A hospitals,Non-urgent,ACT,seen_on_time,91.265
+All hospitals,Resuscitation,ACT,seen_on_time,99.0253
+All hospitals,Emergency,ACT,seen_on_time,64.4283
+All hospitals,Urgent,ACT,seen_on_time,51.2261
+All hospitals,Semi-urgent,ACT,seen_on_time,68.5805
+All hospitals,Non-urgent,ACT,seen_on_time,88.7337
+Principal referral and womens and children's hospitals,Resuscitation,NT,seen_on_time,100
+Principal referral and womens and children's hospitals,Emergency,NT,seen_on_time,36.512
+Principal referral and womens and children's hospitals,Urgent,NT,seen_on_time,18.0986
+Principal referral and womens and children's hospitals,Semi-urgent,NT,seen_on_time,33.1376
+Principal referral and womens and children's hospitals,Non-urgent,NT,seen_on_time,64.667
+Public acute group A hospitals,Resuscitation,NT,seen_on_time,100
+Public acute group A hospitals,Emergency,NT,seen_on_time,69.0614
+Public acute group A hospitals,Urgent,NT,seen_on_time,63.2142
+Public acute group A hospitals,Semi-urgent,NT,seen_on_time,57.2527
+Public acute group A hospitals,Non-urgent,NT,seen_on_time,92.1492
+Public acute group C hospitals,Resuscitation,NT,seen_on_time,91.8421
+Public acute group C hospitals,Emergency,NT,seen_on_time,52.499
+Public acute group C hospitals,Urgent,NT,seen_on_time,45.4794
+Public acute group C hospitals,Semi-urgent,NT,seen_on_time,54.3907
+Public acute group C hospitals,Non-urgent,NT,seen_on_time,83.9807
+All hospitals,Resuscitation,NT,seen_on_time,98.4168
+All hospitals,Emergency,NT,seen_on_time,49.1614
+All hospitals,Urgent,NT,seen_on_time,40.0083
+All hospitals,Semi-urgent,NT,seen_on_time,47.9467
+All hospitals,Non-urgent,NT,seen_on_time,82.2797
